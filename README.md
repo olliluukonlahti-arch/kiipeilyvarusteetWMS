@@ -77,3 +77,4 @@ Tämän harjoitustyön worklog.md-tiedosto on pidetty reaaliaikaisesti päiväko
 # commit marker 7
 # commit marker 8
 # commit marker 9
+# commit marker 10
