@@ -83,3 +83,4 @@ Tämän harjoitustyön worklog.md-tiedosto on pidetty reaaliaikaisesti päiväko
 # commit marker 13
 # commit marker 14
 # commit marker 15
+# commit marker 16
