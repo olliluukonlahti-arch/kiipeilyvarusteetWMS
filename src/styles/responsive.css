@@ -1,0 +1,32 @@
+/* RESPONSIIVISUUS: Näytöt alle 768px */
+/* Perusmobiilisäädöt. Ei hienostelua. */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 1rem;
+  }
+
+  .gear-form {
+    max-width: 100%;
+    margin: 0 auto 1.5rem;
+  }
+
+  .gear-list-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gear-card {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  canvas {
+    max-width: 100%;
+    height: auto;
+    /* skaalaa käyttöikä-graafin leveyttä mobiilissa */
+  }
+
+  .maintenance-panel {
+    max-width: 100%;
+  }
+}

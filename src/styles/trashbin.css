@@ -1,0 +1,17 @@
+.trash-bin {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  background-color: #ffe6e6;
+  border-top: 2px solid red;
+
+  text-align: center;
+  padding: 1rem;
+
+  font-weight: bold;
+  color: red;
+
+  z-index: 999; /* varmuuden vuoksi pysyy päällimmäisenä */
+}

@@ -1,0 +1,51 @@
+.gear-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+  font-size: 17px;
+  line-height: 1.4; /* vähä pienempi riviväli */
+}
+
+/* Lomakekentät ja dropdown valikko */
+.gear-form input,
+.gear-form select {
+  font-size: 16px;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.gear-form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+/* Nappi lomakkeessa */
+.gear-form button {
+  font-size: 17px;
+  padding: 10px 16px;
+  background-color: #2b6cb0;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.gear-form button:hover {
+  background-color: #22568c;
+}
+
+/* Virheilmoitukset kenttien alle */
+.error {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+  display: block;
+}
