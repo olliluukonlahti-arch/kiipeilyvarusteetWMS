@@ -58,6 +58,12 @@
 - Yleisimpien varusteiden kartoitus ja kuvien nimeäminen.  
 - Kaikki kuvat lisätty `public/images/`-kansioon ja testattu GearListissä. | **4.5h**
 
+## 20.07.2025 (jatkuu)
+- Lisäsin vielä versionhallintahistorian jälkikäteen, koska alkuvaiheessa git ei ollut käytössä.
+- Kirjoitin tätä varten Bash-skriptin, joka käytti GIT_AUTHOR_DATE- ja GIT_COMMITTER_DATE-muuttujia.
+- Testasin skriptin huolellisesti ja varmistin, ettei historiaan jäänyt tuplia tai virheellisiä committeja.
+- Tämän avulla sain versionhistorian vastaamaan todellista työskentelyrytmiäni. | **2.0h**
+
 ---
 
 ## ⏱️ Yhteensä käytetty aika: **51.5 tuntia**
