@@ -1,19 +1,18 @@
 [
-    {
-      "id": 1,
-      "name": "Esimerkki Valjaat!",
-      "type": "valjaat",
-      "purchaseYear": 2021,
-      "lifetimeYears": 5,
-      "image": "valjaat1.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Esimerkki köysi!",
-      "type": "köysi",
-      "purchaseYear": 2022,
-      "lifetimeYears": 4,
-      "image": "koysi1.jpeg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Esimerkki Valjaat!",
+    "type": "valjaat",
+    "purchaseYear": 2021,
+    "lifetimeYears": 5,
+    "image": "/kiipeilyvarusteetWMS/images/valjaat1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Esimerkki köysi!",
+    "type": "köysi",
+    "purchaseYear": 2022,
+    "lifetimeYears": 4,
+    "image": "/kiipeilyvarusteetWMS/images/koysi1.jpeg"
+  }
+]
